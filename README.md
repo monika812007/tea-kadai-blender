@@ -4,7 +4,7 @@ A 3D model of an Indian tea shop created using **Blender**.
 
 ## 🖼️ Project Preview
 
-![Tea Kadai Render](teakadai_blender.png)
+![Tea Kadai Render](teakadai blender.png)
 
 ## 🎨 About the Project
 
